@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234443373380",
+    "firebase_url": "https://neredesin-bakal-m.firebaseio.com",
+    "project_id": "neredesin-bakal-m",
+    "storage_bucket": "neredesin-bakal-m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234443373380:android:0fa814b4a27aae2b2a3511",
+        "android_client_info": {
+          "package_name": "com.lyadirga.neredesinbakalm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234443373380-mc1tpc93lcm14h86g1hek5ultnt6oqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxk_lrLKGnfKkgsuvm9wudhVdBsXPV6lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234443373380-mc1tpc93lcm14h86g1hek5ultnt6oqgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
